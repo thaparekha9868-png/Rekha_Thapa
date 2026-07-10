@@ -1,5 +1,5 @@
 # Hi, I'm Rekha Thapa 👋
-🎓B.Sc. CSIT Graduate | Python Developer | AWS Cloud Enthusiast Building projects in Python, Web Development &amp; Cloud Computing | Semester Topper &amp; Scholarship Holder
+🎓B.Sc. CSIT Graduate | Python Developer | AWS Cloud Enthusiast Building projects in Python, Web Development ; Cloud Computing | Semester Topper; Scholarship Holder
 
 💻 Interested in:
 - Python Development
@@ -11,13 +11,12 @@
 
 Languages:
 - Python
-- Java
 - C++
 - JavaScript
 
 Database:
 - MySQL
-- Oracle
+  
 
 Cloud:
 - AWS (EC2, S3, VPC)
@@ -41,4 +40,4 @@ Tools:
 - Girls in ICT Nepal – Emerging Technologies Program
 
 ## Connect with me
-LinkedIn: your-link
+LinkedIn: https://www.linkedin.com/in/rekhaa-thapa-657aa3369 
